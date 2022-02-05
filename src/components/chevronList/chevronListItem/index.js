@@ -1,5 +1,5 @@
 import React from 'react';
-import CheckIcon from '../../../assets/check.png';
+import CheckIcon from '../../../assets/Check.svg';
 import SpinnerIcon from '../../../assets/Spinner.svg';
 import styles from './chevronListItem.module.scss';
 const ChevronListItem = ({data}) => {
